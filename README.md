@@ -8,10 +8,10 @@ This repo contains writing samples that demonstrate my documentation approach ac
 
 | Sample | What it shows |
 |---|---|
-| [`samples/api-reference.md`](samples/api-reference.md) | A REST API reference doc (resource model, operations, request/response examples, error handling) — the kind of deliverable I produce for engineering-facing API documentation. |
-| [`samples/installation-configuration-guide.md`](samples/installation-configuration-guide.md) | A Docker-based install/configuration guide, including prerequisites, step-by-step setup, and common troubleshooting — modeled on the install guides I write for platform teams. |
-| [`samples/product-overview.md`](samples/product-overview.md) | A product overview doc aimed at a mixed technical/business audience — architecture summary, key features, and module breakdown. |
-| [`case-studies/docs-as-code-workflow.md`](case-studies/docs-as-code-workflow.md) | A case study template describing a docs-as-code migration (Git-based workflow, automated style linting with Vale, CI-driven publishing). Fill in with your own project specifics — written generically on purpose so it can describe process and impact without disclosing any employer's internal systems. |
+| [`api-reference.md`](api-reference.md) | A REST API reference doc (resource model, operations, request/response examples, error handling) — the kind of deliverable I produce for engineering-facing API documentation. |
+| [`installation-configuration-guide.md`](installation-configuration-guide.md) | A Docker-based install/configuration guide, including prerequisites, step-by-step setup, and common troubleshooting — modeled on the install guides I write for platform teams. |
+| [`product-overview.md`](product-overview.md) | A product overview doc aimed at a mixed technical/business audience — architecture summary, key features, and module breakdown. |
+| [`docs-as-code-workflow.md`](docs-as-code-workflow.md) | A case study template describing a docs-as-code migration (Git-based workflow, automated style linting with Vale, CI-driven publishing). Fill in with your own project specifics — written generically on purpose so it can describe process and impact without disclosing any employer's internal systems. |
 
 ## About my approach
 
